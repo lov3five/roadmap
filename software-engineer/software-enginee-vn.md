@@ -1,7 +1,7 @@
 
-# Một kỹ sư phần mềm cần phải có một loạt kỹ năng kỹ thuật và không kỹ thuật để thành công trong lĩnh vực này. Dưới đây là một danh sách các kỹ năng quan trọng mà một kỹ sư phần mềm cần phải phát triển:
+## Một kỹ sư phần mềm cần phải có một loạt kỹ năng kỹ thuật và không kỹ thuật để thành công trong lĩnh vực này. Dưới đây là một danh sách các kỹ năng quan trọng mà một kỹ sư phần mềm cần phải phát triển:
 
-## Kỹ năng Kỹ thuật:
+### Kỹ năng Kỹ thuật:
 
 - Lập trình: Nắm vững ít nhất một ngôn ngữ lập trình và có khả năng nắm bắt nhanh chóng ngôn ngữ mới.
 
@@ -19,7 +19,7 @@
 
 - Kiến thức về Bảo mật: Hiểu về các lỗ hổng bảo mật phổ biến và biện pháp bảo mật.
 
-## Kỹ năng Mềm:
+### Kỹ năng Mềm:
 
 - Giải quyết vấn đề: Khả năng phân tích và giải quyết các vấn đề phức tạp trong phát triển phần mềm.
 
@@ -37,7 +37,7 @@
 
 - Ứng dụng Kỹ năng Mềm: Biết cách áp dụng kỹ năng mềm vào công việc hàng ngày để tạo môi trường làm việc tích cực.
 
-## Kỹ năng Liên quan đến Dự án và Quản lý:
+### Kỹ năng Liên quan đến Dự án và Quản lý:
 
 - Quản lý Dự án: Hiểu biết về quy trình phát triển phần mềm và quản lý dự án, chẳng hạn như Agile hoặc Scrum.
 

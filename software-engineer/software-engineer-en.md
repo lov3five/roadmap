@@ -1,6 +1,6 @@
-# A software engineer needs to have a range of technical and non-technical skills to be successful in the field. Here is a list of important skills that a software engineer needs to develop:
+## A software engineer needs to have a range of technical and non-technical skills to be successful in the field. Here is a list of important skills that a software engineer needs to develop:
 
-## Technical Skills:
+### Technical Skills:
 
 - Programming: Master at least one programming language and have the ability to quickly grasp new languages.
 
@@ -18,7 +18,7 @@
 
 - Security Knowledge: Understanding common security vulnerabilities and security measures.
 
-## Soft skills:
+### Soft skills:
 
 Problem Solving: The ability to analyze and solve complex problems in software development.
 
@@ -36,7 +36,7 @@ Creativity and Logical Thinking: The ability to think logically and create creat
 
 - Application of Soft Skills: Know how to apply soft skills in daily work to create a positive working environment.
 
-## Project and Management Related Skills:
+### Project and Management Related Skills:
 
 Project Management: Understanding of software development and project management processes, such as Agile or Scrum.
 
