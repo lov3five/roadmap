@@ -53,6 +53,4 @@
 
 - Lĩnh vực phát triển luôn thay đổi, vì vậy hãy luôn học hỏi và cập nhật bằng cách tham gia các khóa học trực tuyến, đọc sách và thực hành thường xuyên.
 
-```
-Lộ trình trên có thể khác nhau tùy thuộc vào mục tiêu và nhu cầu cá nhân của bạn, nhưng nó cung cấp một khung tham chiếu để phát triển kiến thức và kỹ năng NestJS của bạn. Điều quan trọng là luôn thực hành và xây dựng các ứng dụng thực tế để cải thiện kỹ năng lập trình của bạn.
-```
+```Lộ trình trên có thể khác nhau tùy thuộc vào mục tiêu và nhu cầu cá nhân của bạn, nhưng nó cung cấp một khung tham chiếu để phát triển kiến thức và kỹ năng NestJS của bạn. Điều quan trọng là luôn thực hành và xây dựng các ứng dụng thực tế để cải thiện kỹ năng lập trình của bạn. ```

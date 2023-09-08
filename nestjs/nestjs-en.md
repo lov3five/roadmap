@@ -53,6 +53,5 @@
 
 - The field of development is ever-changing, so keep learning and stay updated by taking online courses, reading books, and practicing regularly.
 
-```
-The roadmap above may vary depending on your personal goals and needs, but it provides a framework of reference for developing your NestJS knowledge and skills. It's important to always practice and build real applications to improve your programming skills.
-```
+
+```The roadmap above may vary depending on your personal goals and needs, but it provides a framework of reference for developing your NestJS knowledge and skills. It's important to always practice and build real applications to improve your programming skills.```
