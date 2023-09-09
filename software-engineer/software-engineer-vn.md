@@ -51,9 +51,6 @@
 
 ```Lưu ý rằng danh sách này có thể không hoàn chỉnh và có thể thay đổi tùy theo ngữ cảnh và loại dự án bạn đang tham gia. Một kỹ sư phần mềm giỏi không chỉ có kiến thức kỹ thuật mà còn có khả năng làm việc trong môi trường thực tế, giải quyết vấn đề, và làm việc với người khác để đạt được mục tiêu dự án.```
 
-YAGNI – You ain’t gonna need it
-Nguyên lý này nói rằng luôn luôn thực hiện những điều khi bạn thực sự cần chúng, không bao giờ thực hiện mọi thứ trước khi bạn cần chúng.
-
 ## Các nguyên lý trong thiết kế phần mềm
 
 ### SOLID
